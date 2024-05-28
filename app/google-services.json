@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794671758842",
+    "project_id": "hayirhesenat",
+    "storage_bucket": "hayirhesenat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794671758842:android:436e5f0a011050fddd7843",
+        "android_client_info": {
+          "package_name": "com.example.hayirhesenat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB13AXwg3CAePrsoRV9r5acGCUAclf4RpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
